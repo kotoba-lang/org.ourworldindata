@@ -1,0 +1,14 @@
+{:catalog/id "org.ourworldindata"
+ :catalog/source-domain "ourworldindata.org"
+ :catalog/retrieved-at "2026-07-10"
+ :sources
+ [{:source/id :owid/grapher-electricity-prod-source-stacked
+   :title "Electricity production by source"
+   :path "raw/grapher/electricity-prod-source-stacked.csv"
+   :metadata-path "raw/grapher/electricity-prod-source-stacked.metadata.json"
+   :csv-sha256 "80dffb079603b05e4095b48c0ba0d17d93f1f87865a2fb228ab1d4b6b1102824"
+   :metadata-sha256 "eb74ccc2d150ba43cd67d7abce5b38f5555949189aea7ae3a83da0b347b1a215"
+   :unit "TWh"
+   :latest-observation-year 2024
+   :url "https://ourworldindata.org/grapher/electricity-prod-source-stacked.csv"
+   :license-note "OWID charts are CC BY; underlying third-party source terms remain applicable."}]}
